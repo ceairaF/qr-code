@@ -1,0 +1,36 @@
+html{
+    height:100%;
+    width:100%;
+    background-color:#d6e2f0;
+    font-family: 'Outfit', sans-serif;
+}
+
+p{
+    font-size:15px;
+    color:#7b879d;
+}
+
+h2{
+    color:	#1f3251;
+    font-size:19px;
+}
+
+.main{
+    margin:auto;
+    width:60%;
+    border-radius:16px;
+    padding:10px;
+    background-color:#ffff;
+    text-align:center;
+}
+
+img{
+    border-radius: 9px;
+}
+
+footer{
+    margin:30px;
+}
+
+
+
